@@ -21,4 +21,8 @@ sesuai yang anda inginkan.
 
 7. Cara untuk monitoring di uptimerobot bisa cek pada video beriku https://youtu.be/Yp_cXlvJB8c?si=UdaN1njeSQWtKHYG
 
-8. Pada video silahkan lihat di menit 00:30 sampai selesai.
+![alt text](https://github.com/mastopa/RPC-Discord-/blob/main/image/Screenshot_2024-04-15-11-17-27-877_com.android.chrome.jpg?raw=true)
+
+9. Pada video silahkan lihat di menit 00:30 sampai selesai.
+
+![alt text](https://github.com/mastopa/RPC-Discord-/blob/main/image/Screenshot_2024-04-15-11-27-11-402_com.android.chrome.jpg?raw=true)
